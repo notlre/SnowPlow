@@ -1,0 +1,8 @@
+{
+  "name": "Hearthplow",
+  "description": "A cozy 3D isometric snow-plowing game set in a warm twilight mountain village with garage upgrades, combo multipliers, weather challenges, and procedural synth audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
